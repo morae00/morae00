@@ -15,7 +15,8 @@
 
 ---
 
-### 👋 Hello! I'm Kyuuk Kang 👋
+### Hello! I'm Kyuuk Kang 😀
+### 강규욱의 github page 입니다.
 
 
 ---
@@ -83,9 +84,14 @@
 
 <summary> 💻 Portfolio / Project 🛠️ </summary>
 
-- 💻  : 
-- 💻  : 
-- 💻  :
+- 💻   <a href="https://github.com/morae00/AIB_TP1">AI 소프트웨어 업그레이드 프로젝트 </a> : 2023.07.19 ~ 2023.08.01
+  <br>
+  - 세부 프로젝트 1) 전복의 크기, 무게등의 feature로 Rings예측 (회귀)
+  - 세부 프로젝트 2) 천체의 특성자료로부터 펄사를 식별 (이진분류)
+  - 세부 프로젝트 3) 27개의 features로 부터 7종류의 강판결함 분류 (다중분류)
+- 💻   <a href="https://github.com/morae00/AIB18Section7PJT_AICINE">영화 추천 시스템 개발 </a> : 2023.08.09 ~ 2023.09.05
+- 💻   <a href="https://github.com/morae00/AIBproject1"> 게임 시장 분석 분석 및 신규 프로젝트 설계 전략 수립 </a> : 2023.03.08 ~ 2023.03.13
+- 💻   <a href="https://github.com/morae00/AIBproject2"> 심혈관 질환 발병 여부 예측 모델 개발 </a> : 2023.04.07 ~ 2023.04.12
 
 </details>
 
