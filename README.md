@@ -20,7 +20,7 @@
 
 ---
 
-<details>
+<details open>
 
 <summary>🎓 Careers 🌱</summary>
 
@@ -30,7 +30,7 @@
 
 </details>
 
-<details>
+<details open>
 
 <summary>⚙️ Tech Stack ⚒️</summary>
 
@@ -79,7 +79,7 @@
 
 </details>
 
-<details>
+<details open>
 
 <summary> 💻 Portfolio / Project 🛠️ </summary>
 
