@@ -40,6 +40,8 @@
 ### [ Programming & Language ]
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+<img src="https://img.shields.io/badge/r-4682B4?style=for-the-badge&logo=R&logoColor=white"></a>
+<img src="https://img.shields.io/badge/sas-2E8B57?style=for-the-badge"/></a>
 
 
 ### [ IDE & Environment ]
@@ -56,11 +58,8 @@
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=SciPy&logoColor=white"></a>
-<img src="https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=SymPy&logoColor=white"></a>
 
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=Plotly&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=Looker&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></a>
 
 ### [ Machine & Deep Learning ]
 
