@@ -64,6 +64,7 @@
 ### [ Machine & Deep Learning ]
 
 <img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikit learn&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spaCy&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/RECBole-09A3D5?style=for-the-badge"/></a>
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a>
