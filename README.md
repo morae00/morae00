@@ -83,6 +83,7 @@
 
 <summary> 💻 Portfolio / Project 🛠️ </summary>
 
+- 💻   <a href="https://github.com/morae00/-Toy-Project-Darkweb-DA">다크웹 마켓 데이터 분석 </a> : 2024.01.18 ~ 2024.01.25
 - 💻   <a href="https://github.com/morae00/AIB_TP1">AI 소프트웨어 업그레이드 프로젝트 </a> : 2023.07.19 ~ 2023.08.01
   <br>
   - 세부 프로젝트 1) 전복의 크기, 무게등의 feature로 Rings예측 (회귀)
